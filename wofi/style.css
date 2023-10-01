@@ -1,0 +1,37 @@
+* {
+    font-family: monospace;
+    color: #e5e9f0;
+    border-radius: 6px;
+    background: solid;
+  }
+  
+  #window {
+    background: rgba(41, 46, 66, 0.5);
+    margin: auto;
+    padding: 10px;
+  }
+  
+  #input {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #outer-box {
+    padding: 12px;
+  }
+  
+  #img {
+    margin-right: 14px;
+  }
+  
+  #entry {
+    padding: 10px;
+  }
+  
+  #entry:selected {
+    background-color: #2e3440;
+  }
+  
+  #text {
+    margin: 2px;
+  }
