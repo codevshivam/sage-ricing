@@ -1,8 +1,8 @@
 #!/usr/bin/sudo bash
-rm ~/.config/sway/*
-rm ~/.config/swaylock/*
-rm ~/.config/waybar/*
-rm ~/.config/wofi/*
+rm -r ~/.config/sway
+rm -r ~/.config/swaylock
+rm -r ~/.config/waybar
+rm -r ~/.config/wofi
 cp -r sway ~/.config/
 cp -r swaylock ~/.config/
 cp -r wallpaper ~/.config/
