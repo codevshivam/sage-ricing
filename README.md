@@ -29,7 +29,8 @@ yay -Syy gvfs gvfs-mtp gvfs-nfs gvfs-smb tumbler
 ```bash
 git clone https://github.com/codevshivam/sage-ricing.git
 cd sage-ricing
-chmod +x install.sh & ./install.sh
+chmod +x install.sh
+sudo ./install.sh
 ```
 #### Alternative Method
 
