@@ -1,4 +1,5 @@
-# Sage Rice (work in progress)*
+# Abandoned Project
+## ~~Sage Rice (work in progress)~~
 ## **warning this my personal rice config and is only ment for my use, it can break or cause other issues if used.**
 <p align="center"><img src="preview.png"/> </p>
 
